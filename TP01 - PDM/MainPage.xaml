@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TP01___PDM.MainPage">
+
+    <StackLayout Margin="50">
+        <Label Text="Informe suas credenciais de login" HorizontalOptions="CenterAndExpand" Margin="0,20" FontSize="18" />
+
+        <Label Text="ID:" />
+        <Entry Placeholder="ID" x:Name="IdEntry" Margin="0,20" />
+
+        <Label Text="Senha:" />
+        <Grid ColumnDefinitions="*, auto">
+            <Entry x:Name="PasswordEntry"
+                       IsPassword="True"
+                       FontSize="16"
+                       CharacterSpacing="0.3"
+                       Placeholder="Senha" 
+                       Margin="0,20" />
+            
+            <Button Grid.Column="1"
+                        Text="👁️"
+                        HeightRequest="34"
+                        BackgroundColor="{AppThemeBinding Light={StaticResource Gray100}, Dark={StaticResource Gray950}}"
+                        Padding="10, 0"
+                        Clicked="ShowPassword_Clicked" />
+        </Grid>
+
+        <Button Text="Ok" Margin="0,10" Clicked="OnSubmit" />
+        <Button Text="Limpar" Margin="0,10" Clicked="OnClear" />
+        <Button Text="Créditos" Margin="0,10" Clicked="OnViewCredits" />
+    </StackLayout>
+
+</ContentPage>

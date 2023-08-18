@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TP01___PDM.Creditos"
+             Title="Creditos">
+    <StackLayout Margin="50">
+        <Label Text="Créditos" HorizontalOptions="CenterAndExpand" Margin="0,20" FontSize="23" />
+        <Label Text="Eduarda Vitória" HorizontalOptions="CenterAndExpand" FontSize="18" />
+        <Label Text="Stefany Tam" HorizontalOptions="CenterAndExpand" FontSize="18" />
+
+        <Button Text="Voltar" Margin="0,50" Clicked="OnBack" />
+    </StackLayout>
+</ContentPage>
