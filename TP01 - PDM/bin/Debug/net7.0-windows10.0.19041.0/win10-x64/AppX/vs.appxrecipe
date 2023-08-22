@@ -30,29 +30,29 @@
     <AppXManifest Include="C:\Users\eduarda.matias\source\repos\TP01 - PDM\TP01 - PDM\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-08-18T23:32:11.994</Modified>
+      <Modified>2023-08-22T14:19:13.051</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\eduarda.matias\source\repos\TP01 - PDM\TP01 - PDM\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-08-18T23:32:11.565</Modified>
+      <Modified>2023-08-22T14:17:07.709</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\eduarda.matias\source\repos\TP01 - PDM\TP01 - PDM\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\TP01 - PDM.runtimeconfig.json">
       <PackagePath>TP01 - PDM.runtimeconfig.json</PackagePath>
-      <Modified>2023-08-18T23:20:39.467</Modified>
+      <Modified>2023-08-19T00:29:16.156</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\eduarda.matias\source\repos\TP01 - PDM\TP01 - PDM\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\TP01 - PDM.dll">
       <PackagePath>TP01 - PDM.dll</PackagePath>
-      <Modified>2023-08-18T23:32:09.579</Modified>
+      <Modified>2023-08-22T14:19:08.217</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\eduarda.matias\source\repos\TP01 - PDM\TP01 - PDM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>TP01 - PDM.exe</PackagePath>
-      <Modified>2023-08-18T23:32:09.591</Modified>
+      <Modified>2023-08-22T14:19:08.239</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\eduarda.matias\source\repos\TP01 - PDM\TP01 - PDM\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\TP01 - PDM.deps.json">
       <PackagePath>TP01 - PDM.deps.json</PackagePath>
-      <Modified>2023-08-18T23:20:39.302</Modified>
+      <Modified>2023-08-22T14:17:05.225</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\eduarda.matias\.nuget\packages\microsoft.netcore.app.runtime.win-x64\7.0.10\runtimes\win-x64\lib\net7.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -940,23 +940,23 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\eduarda.matias\source\repos\TP01 - PDM\TP01 - PDM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
-      <Modified>2023-08-18T23:20:33.837</Modified>
+      <Modified>2023-08-18T23:44:10.338</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\eduarda.matias\source\repos\TP01 - PDM\TP01 - PDM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
-      <Modified>2023-08-18T23:20:33.873</Modified>
+      <Modified>2023-08-18T23:44:10.368</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\eduarda.matias\source\repos\TP01 - PDM\TP01 - PDM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
-      <Modified>2023-08-18T23:20:33.926</Modified>
+      <Modified>2023-08-18T23:44:10.449</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\eduarda.matias\source\repos\TP01 - PDM\TP01 - PDM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
-      <Modified>2023-08-18T23:20:34.002</Modified>
+      <Modified>2023-08-18T23:44:10.520</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\eduarda.matias\source\repos\TP01 - PDM\TP01 - PDM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
-      <Modified>2023-08-18T23:20:34.396</Modified>
+      <Modified>2023-08-18T23:44:10.800</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\eduarda.matias\source\repos\TP01 - PDM\TP01 - PDM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
@@ -968,207 +968,207 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\eduarda.matias\source\repos\TP01 - PDM\TP01 - PDM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2023-08-18T23:20:34.492</Modified>
+      <Modified>2023-08-18T23:44:10.939</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\eduarda.matias\source\repos\TP01 - PDM\TP01 - PDM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2023-08-18T23:20:35.146</Modified>
+      <Modified>2023-08-18T23:44:11.401</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\eduarda.matias\source\repos\TP01 - PDM\TP01 - PDM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2023-08-18T23:20:35.171</Modified>
+      <Modified>2023-08-18T23:44:11.420</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\eduarda.matias\source\repos\TP01 - PDM\TP01 - PDM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2023-08-18T23:20:35.190</Modified>
+      <Modified>2023-08-18T23:44:11.435</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\eduarda.matias\source\repos\TP01 - PDM\TP01 - PDM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2023-08-18T23:20:35.219</Modified>
+      <Modified>2023-08-18T23:44:11.460</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\eduarda.matias\source\repos\TP01 - PDM\TP01 - PDM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2023-08-18T23:20:35.433</Modified>
+      <Modified>2023-08-18T23:44:11.565</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\eduarda.matias\source\repos\TP01 - PDM\TP01 - PDM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2023-08-18T23:20:34.685</Modified>
+      <Modified>2023-08-18T23:44:11.067</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\eduarda.matias\source\repos\TP01 - PDM\TP01 - PDM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2023-08-18T23:20:34.693</Modified>
+      <Modified>2023-08-18T23:44:11.074</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\eduarda.matias\source\repos\TP01 - PDM\TP01 - PDM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2023-08-18T23:20:34.732</Modified>
+      <Modified>2023-08-18T23:44:11.103</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\eduarda.matias\source\repos\TP01 - PDM\TP01 - PDM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2023-08-18T23:20:34.700</Modified>
+      <Modified>2023-08-18T23:44:11.080</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\eduarda.matias\source\repos\TP01 - PDM\TP01 - PDM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2023-08-18T23:20:34.708</Modified>
+      <Modified>2023-08-18T23:44:11.087</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\eduarda.matias\source\repos\TP01 - PDM\TP01 - PDM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2023-08-18T23:20:34.627</Modified>
+      <Modified>2023-08-18T23:44:11.026</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\eduarda.matias\source\repos\TP01 - PDM\TP01 - PDM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2023-08-18T23:20:34.635</Modified>
+      <Modified>2023-08-18T23:44:11.032</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\eduarda.matias\source\repos\TP01 - PDM\TP01 - PDM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2023-08-18T23:20:34.677</Modified>
+      <Modified>2023-08-18T23:44:11.062</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\eduarda.matias\source\repos\TP01 - PDM\TP01 - PDM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2023-08-18T23:20:34.645</Modified>
+      <Modified>2023-08-18T23:44:11.039</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\eduarda.matias\source\repos\TP01 - PDM\TP01 - PDM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2023-08-18T23:20:34.656</Modified>
+      <Modified>2023-08-18T23:44:11.045</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\eduarda.matias\source\repos\TP01 - PDM\TP01 - PDM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2023-08-18T23:20:34.517</Modified>
+      <Modified>2023-08-18T23:44:10.955</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\eduarda.matias\source\repos\TP01 - PDM\TP01 - PDM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2023-08-18T23:20:34.526</Modified>
+      <Modified>2023-08-18T23:44:10.962</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\eduarda.matias\source\repos\TP01 - PDM\TP01 - PDM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2023-08-18T23:20:34.535</Modified>
+      <Modified>2023-08-18T23:44:10.969</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\eduarda.matias\source\repos\TP01 - PDM\TP01 - PDM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2023-08-18T23:20:34.543</Modified>
+      <Modified>2023-08-18T23:44:10.977</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\eduarda.matias\source\repos\TP01 - PDM\TP01 - PDM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2023-08-18T23:20:34.557</Modified>
+      <Modified>2023-08-18T23:44:10.986</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\eduarda.matias\source\repos\TP01 - PDM\TP01 - PDM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2023-08-18T23:20:34.563</Modified>
+      <Modified>2023-08-18T23:44:10.991</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\eduarda.matias\source\repos\TP01 - PDM\TP01 - PDM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2023-08-18T23:20:34.571</Modified>
+      <Modified>2023-08-18T23:44:10.997</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\eduarda.matias\source\repos\TP01 - PDM\TP01 - PDM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2023-08-18T23:20:34.620</Modified>
+      <Modified>2023-08-18T23:44:11.021</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\eduarda.matias\source\repos\TP01 - PDM\TP01 - PDM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2023-08-18T23:20:34.590</Modified>
+      <Modified>2023-08-18T23:44:11.002</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\eduarda.matias\source\repos\TP01 - PDM\TP01 - PDM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2023-08-18T23:20:34.600</Modified>
+      <Modified>2023-08-18T23:44:11.009</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\eduarda.matias\source\repos\TP01 - PDM\TP01 - PDM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2023-08-18T23:20:34.859</Modified>
+      <Modified>2023-08-18T23:44:11.189</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\eduarda.matias\source\repos\TP01 - PDM\TP01 - PDM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2023-08-18T23:20:34.872</Modified>
+      <Modified>2023-08-18T23:44:11.197</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\eduarda.matias\source\repos\TP01 - PDM\TP01 - PDM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2023-08-18T23:20:34.891</Modified>
+      <Modified>2023-08-18T23:44:11.208</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\eduarda.matias\source\repos\TP01 - PDM\TP01 - PDM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2023-08-18T23:20:34.910</Modified>
+      <Modified>2023-08-18T23:44:11.221</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\eduarda.matias\source\repos\TP01 - PDM\TP01 - PDM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2023-08-18T23:20:34.960</Modified>
+      <Modified>2023-08-18T23:44:11.249</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\eduarda.matias\source\repos\TP01 - PDM\TP01 - PDM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2023-08-18T23:20:34.792</Modified>
+      <Modified>2023-08-18T23:44:11.148</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\eduarda.matias\source\repos\TP01 - PDM\TP01 - PDM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2023-08-18T23:20:34.803</Modified>
+      <Modified>2023-08-18T23:44:11.155</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\eduarda.matias\source\repos\TP01 - PDM\TP01 - PDM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2023-08-18T23:20:34.812</Modified>
+      <Modified>2023-08-18T23:44:11.161</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\eduarda.matias\source\repos\TP01 - PDM\TP01 - PDM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2023-08-18T23:20:34.822</Modified>
+      <Modified>2023-08-18T23:44:11.169</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\eduarda.matias\source\repos\TP01 - PDM\TP01 - PDM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2023-08-18T23:20:34.844</Modified>
+      <Modified>2023-08-18T23:44:11.182</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\eduarda.matias\source\repos\TP01 - PDM\TP01 - PDM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2023-08-18T23:20:34.741</Modified>
+      <Modified>2023-08-18T23:44:11.110</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\eduarda.matias\source\repos\TP01 - PDM\TP01 - PDM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2023-08-18T23:20:34.752</Modified>
+      <Modified>2023-08-18T23:44:11.117</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\eduarda.matias\source\repos\TP01 - PDM\TP01 - PDM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2023-08-18T23:20:34.762</Modified>
+      <Modified>2023-08-18T23:44:11.123</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\eduarda.matias\source\repos\TP01 - PDM\TP01 - PDM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2023-08-18T23:20:34.771</Modified>
+      <Modified>2023-08-18T23:44:11.130</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\eduarda.matias\source\repos\TP01 - PDM\TP01 - PDM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2023-08-18T23:20:34.783</Modified>
+      <Modified>2023-08-18T23:44:11.142</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\eduarda.matias\source\repos\TP01 - PDM\TP01 - PDM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2023-08-18T23:20:34.978</Modified>
+      <Modified>2023-08-18T23:44:11.259</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\eduarda.matias\source\repos\TP01 - PDM\TP01 - PDM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2023-08-18T23:20:35.002</Modified>
+      <Modified>2023-08-18T23:44:11.269</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\eduarda.matias\source\repos\TP01 - PDM\TP01 - PDM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2023-08-18T23:20:35.026</Modified>
+      <Modified>2023-08-18T23:44:11.286</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\eduarda.matias\source\repos\TP01 - PDM\TP01 - PDM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2023-08-18T23:20:35.056</Modified>
+      <Modified>2023-08-18T23:44:11.304</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\eduarda.matias\source\repos\TP01 - PDM\TP01 - PDM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2023-08-18T23:20:35.129</Modified>
+      <Modified>2023-08-18T23:44:11.352</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\eduarda.matias\source\repos\TP01 - PDM\TP01 - PDM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2023-08-18T23:20:34.627</Modified>
+      <Modified>2023-08-18T23:44:10.996</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\eduarda.matias\source\repos\TP01 - PDM\TP01 - PDM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2023-08-18T23:20:34.661</Modified>
+      <Modified>2023-08-18T23:44:11.016</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\eduarda.matias\source\repos\TP01 - PDM\TP01 - PDM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2023-08-18T23:20:34.698</Modified>
+      <Modified>2023-08-18T23:44:11.045</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\eduarda.matias\source\repos\TP01 - PDM\TP01 - PDM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2023-08-18T23:20:34.755</Modified>
+      <Modified>2023-08-18T23:44:11.087</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\eduarda.matias\source\repos\TP01 - PDM\TP01 - PDM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2023-08-18T23:20:34.884</Modified>
+      <Modified>2023-08-18T23:44:11.181</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
